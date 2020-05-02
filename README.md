@@ -12,3 +12,5 @@
 |Interview Prep Kit|Dynamic Programming|Max Array Sum|[Problem](https://www.hackerrank.com/challenges/max-array-sum/problem)|python|[Solution](Interview-Preparation-Kit/Dynamic-Programming/max_array_sum.py)|
 |Interview Prep Kit|Greedy Algorithms|Min Abs Diff in an Array|[Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|python|[Solution](Interview-Preparation-Kit/Greedy-Algorithms/minimum_absolute_difference.py)|
 |Interview Prep Kit|Sorting|Sorting: Bubble Sort|[Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|python|[Solution](Interview-Preparation-Kit/Sorting/bubble_sort.py)|
+|Interview Prep Kit|Sorting|Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|python|[Solution](Interview-Preparation-Kit/Sorting/maximum_toys.py)|
+|Interview Prep Kit|Sorting|Sorting: Comparator|[Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)|python|[Solution](Interview-Preparation-Kit/Sorting/comparator.py)|
