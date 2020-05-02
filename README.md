@@ -9,5 +9,5 @@
 |Interview Preparation Kit|Dictionaries|Hash Tables: Ransom Note|[Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)|python|[Solution](Interview-Preparation-Kit/dictionaries/ransom_note.py)|
 |Interview Preparation Kit|Dictionaries|Sherlock and Anagrams|[Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|python|[Solution](Interview-Preparation-Kit/dictionaries/sherlock_anagrams.py)|
 |Interview Preparation Kit|Dictionaries|Two Strings|[Problem](https://www.hackerrank.com/challenges/two-strings/problem)|python|[Solution](Interview-Preparation-Kit/dictionaries/two_strings.py)|
-|Interview Preparation Kit|Dynamic Programming|Max Array Sum|[Problem](https://www.hackerrank.com/challenges/max-array-sum/problem)|python|[Solution](Interview-Preparation-Kit/Dynamic-Programming/max_array_sum.py)|
+|Interview Preparation Kit|Dyn Programming|Max Array Sum|[Problem](https://www.hackerrank.com/challenges/max-array-sum/problem)|python|[Solution](Interview-Preparation-Kit/Dynamic-Programming/max_array_sum.py)|
 |Interview Preparation Kit|Greedy Algorithms|Min Abs Diff in an Array|[Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|python|[Solution](Interview-Preparation-Kit/Dynamic-Programming/minimum_absolute_difference.py)|
