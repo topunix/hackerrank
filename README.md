@@ -17,6 +17,7 @@
 |Interview Prep Kit|String Manipulation|Strings: Making Anagrams|[Problem](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)|python|[Solution](Interview-Preparation-Kit/String-Manipulation/make_anagram.py)|
 |Interview Prep Kit|String Manipulation|Alternating Characters|[Problem](https://www.hackerrank.com/challenges/alternating-characters/problem)|python|[Solution](Interview-Preparation-Kit/String-Manipulation/alternating-characters.py)|
 |Interview Prep Kit|String Manipulation|Sherlock and the Valid String|[Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|python|[Solution](Interview-Preparation-Kit/String-Manipulation/is_valid.py)|
-
-
-
+|Interview Prep Kit|Warm up|Counting Valleys|[Problem](https://www.hackerrank.com/challenges/counting-valleys/problem)|python|[Solution](Interview-Preparation-Kit/Warm-up-Challenges/counting_valleys.py)|
+|Interview Prep Kit|Warm up|Sock Merchant|[Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)|python|[Solution](Interview-Preparation-Kit/Warm-up-Challenges/sock_merchant.py)|
+|Interview Prep Kit|Warm up|Jumping on the Clouds|[Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|python|[Solution](Interview-Preparation-Kit/Warm-up-Challenges/jumping_on_clouds.py)|
+|Interview Prep Kit|Warm up|Repeated String|[Problem](https://www.hackerrank.com/challenges/repeated-string/problem)|python|[Solution](Interview-Preparation-Kit/Warm-up-Challenges/repeated_string.py)|
