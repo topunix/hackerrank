@@ -14,3 +14,9 @@
 |Interview Prep Kit|Sorting|Sorting: Bubble Sort|[Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|python|[Solution](Interview-Preparation-Kit/Sorting/bubble_sort.py)|
 |Interview Prep Kit|Sorting|Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|python|[Solution](Interview-Preparation-Kit/Sorting/maximum_toys.py)|
 |Interview Prep Kit|Sorting|Sorting: Comparator|[Problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)|python|[Solution](Interview-Preparation-Kit/Sorting/comparator.py)|
+|Interview Prep Kit|String Manipulation|Strings: Making Anagrams|[Problem](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)|python|[Solution](Interview-Preparation-Kit/String-Manipulation/make_anagram.py)|
+|Interview Prep Kit|String Manipulation|Alternating Characters|[Problem](https://www.hackerrank.com/challenges/alternating-characters/problem)|python|[Solution](Interview-Preparation-Kit/String-Manipulation/alternating-characters.py)|
+|Interview Prep Kit|String Manipulation|Sherlock and the Valid String|[Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|python|[Solution](Interview-Preparation-Kit/String-Manipulation/is_valid.py)|
+
+
+
