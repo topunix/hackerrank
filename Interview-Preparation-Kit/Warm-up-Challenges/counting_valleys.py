@@ -1,3 +1,5 @@
+import os
+
 # Complete the countingValleys function below.
 def countingValleys(n, s):
     steps = list(s)
