@@ -1,3 +1,5 @@
+import os
+
 # Complete the makeAnagram function below.
 def makeAnagram(a, b):
     c_num = 0
