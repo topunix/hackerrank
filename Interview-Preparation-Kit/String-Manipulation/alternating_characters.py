@@ -1,3 +1,5 @@
+import os
+
 # Complete the alternatingCharacters function below.
 def alternatingCharacters(s):
     num_match = 0
