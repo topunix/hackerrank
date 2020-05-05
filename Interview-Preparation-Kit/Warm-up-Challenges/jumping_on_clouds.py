@@ -1,3 +1,5 @@
+import os
+
 # Complete the jumpingOnClouds function below.
 def jumpingOnClouds(c):
     num2Jumps = currCloud = 0
