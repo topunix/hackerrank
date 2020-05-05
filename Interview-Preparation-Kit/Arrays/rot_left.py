@@ -1,3 +1,5 @@
+import os
+
 # Complete the rotLeft function below.
 def rotLeft(a, d):
     return a[d:] + a[:d]
