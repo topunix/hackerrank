@@ -1,3 +1,5 @@
+import os
+
 # Complete the maximumToys function below.
 def maximumToys(prices, k):
     prices = sorted(prices)
