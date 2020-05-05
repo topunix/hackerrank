@@ -1,3 +1,5 @@
+import os
+
 def sherlockAndAnagrams(s):
     #1. Traverse all possible substrings within string
     #2. Check if any two substrings of equal length are anagrams
