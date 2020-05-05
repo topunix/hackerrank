@@ -1,3 +1,5 @@
+import os
+
 # Complete the minimumSwaps function below.
 def minimumSwaps(arr):
     # Find the index and find if it's in the right place
