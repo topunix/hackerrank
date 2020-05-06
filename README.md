@@ -9,6 +9,7 @@
 |Interview Prep Kit|Dictionaries|Hash Tables: Ransom Note|[Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)|Python 3|[Solution](Interview-Preparation-Kit/dictionaries/ransom_note.py)|
 |Interview Prep Kit|Dictionaries|Sherlock and Anagrams|[Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|Python 3|[Solution](Interview-Preparation-Kit/dictionaries/sherlock_anagrams.py)|
 |Interview Prep Kit|Dictionaries|Two Strings|[Problem](https://www.hackerrank.com/challenges/two-strings/problem)|Python 3|[Solution](Interview-Preparation-Kit/dictionaries/two_strings.py)|
+|Interview Prep Kit|Dictionaries|Frequency Queries|[Problem](https://www.hackerrank.com/challenges/frequency-queries/problem)|Python 3|[Solution](Interview-Preparation-Kit/dictionaries/freq_query.py)|
 |Interview Prep Kit|Dynamic Programming|Max Array Sum|[Problem](https://www.hackerrank.com/challenges/max-array-sum/problem)|Python 3|[Solution](Interview-Preparation-Kit/Dynamic-Programming/max_array_sum.py)|
 |Interview Prep Kit|Greedy Algorithms|Min Abs Diff in an Array|[Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Python 3|[Solution](Interview-Preparation-Kit/Greedy-Algorithms/minimum_absolute_difference.py)|
 |Interview Prep Kit|Sorting|Sorting: Bubble Sort|[Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|Python 3|[Solution](Interview-Preparation-Kit/Sorting/bubble_sort.py)|
